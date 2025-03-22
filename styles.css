@@ -1,0 +1,144 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.section-1 {
+    /* width: 100%; */
+    height: auto;
+    background-color: #1F2937;
+    display: flexbox;
+    padding-inline: 50px;
+}
+
+.logo img {
+    color: #E5E7EB;
+    border-radius: 35%;
+    margin-block: 30px;
+    padding-inline: 0px;
+}
+
+.navs {
+    text-align: right;
+    margin-right: 500px;
+    text-align: start;
+    font-size: 18px;
+}
+
+.navs a li {
+    display: inline;
+    list-style-type: none; 
+    color: #E5E7EB; 
+    margin-inline: 10px;
+    margin-block: 0px;
+}
+
+.navs a {
+    text-decoration: none;
+}
+
+.intro-section {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.paragraph {
+    color: #E5E7EB;
+    font-size: 18px;
+    line-height: 30px;
+  
+}
+
+.section-2 h1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+
+.equipments {
+    margin-inline: 20px;
+    border-radius: 20px;
+}
+
+.equipment-1 {
+    border-radius: 30px;
+    margin-inline: 10px;
+}
+
+.section-3 {
+    background-color: #E5E7EB;
+}
+
+.section-3 p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+    padding-block: 30px;
+}
+
+#signup {
+    margin-inline: 150px;
+    margin-block: 100px;
+    border-radius: 8px;
+    width: 800px;
+    height: 85px;
+    background-color: #3882F6;
+    padding-top: 10px;
+    /* padding-inline: 20px; */
+}
+
+#signup p {
+    color: #E5E7EB
+}
+
+p b {
+    font-size: 18px;
+    margin-inline-end: 30px;
+    padding-inline: 60px;
+}
+
+p span {
+    padding-inline: 60px;
+}
+ 
+#signup button {
+    margin-left: 80px;
+    color: #E5E7EB;
+    border: 1px solid #F9FAF8;
+    border-radius: 10px;
+    background-color: #3882F6;
+    padding-inline: 20px;
+    padding-block: 10px;
+}
+
+.footer p {
+    text-align: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding-block: 80px;
+}
+
+.main .to-top a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.to-top:hover{
+    background-color: #3882F6;
+    border: 1px solid #3882F6;
+}
+
+.to-top a:hover {
+    color: black;
+}
+
+.to-top {
+    background-color: #1F2937;
+    text-align: center;
+    width: 120px;
+    padding-block: 8px;
+    border-radius: 10px;
+    border: 1px solid #1F2937;
+    margin-inline: 600px;
+}
