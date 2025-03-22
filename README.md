@@ -1,2 +1,2 @@
 # Landing-Page
-#This project explores the various medical equipments 
+# This project is a simple Landing Page for a world class Cardio-Health Organization
